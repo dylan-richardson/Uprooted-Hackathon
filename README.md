@@ -171,5 +171,5 @@ tests/              111 pytest tests (unit, hook, and end-to-end over MCP stdio)
 
 - **Dylan Richardson** ([@dylan-richardson](https://github.com/dylan-richardson)): MCP server, AI integration, Claude Code agent hook, test suite
 - **Josiah Gibbs** ([@Joesiyuh](https://github.com/Joesiyuh)): rule engine, AI analyzer, web dashboard
-- **Zainab Aderomilehin** ([@zainabromilehin](https://github.com/zainabromilehin)): ROLE
-- **Jermaine Griffin** ([@jermgriffin2425](https://github.com/jermgriffin2425)): ROLE
+- **Zainab Aderomilehin** ([@zainabromilehin](https://github.com/zainabromilehin)): presentation management
+- **Jermaine Griffin** ([@jermgriffin2425](https://github.com/jermgriffin2425)): ethics, safety, and human-oversight research
